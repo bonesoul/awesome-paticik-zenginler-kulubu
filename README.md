@@ -3,7 +3,6 @@
 ## İçerik
 
 - [Market](#market)
-	- [Fiyat takip](#fiyat-takip)
 	- [Mobile](#mobile)
 - [ICO](#ico)
 	- [İnceleme](#inceleme)
@@ -11,11 +10,14 @@
   
 ## Market
 
-### Fiyat takip
-
 - [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
 - [CoinCap](http://coincap.io/) - Alternatif liste.
 - [LivecoinWatch](https://www.livecoinwatch.com/) - Alternatif liste.
+
+### Grafik
+
+- [CryptoWatch](https://cryptowat.ch/)
+- [BitcoinWisdom](https://bitcoinwisdom.com/)
 
 ### Mobile
 
