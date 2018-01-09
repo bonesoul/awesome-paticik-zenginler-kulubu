@@ -3,10 +3,15 @@
 ## İçerik
 
 - [Market](#market)
+	- [Grafik](#grafik)
+- [Portfolio]
 	- [Mobile](#mobile)
+	- [Web](#web)
 - [ICO](#ico)
 	- [İnceleme](#inceleme)
 - [Haber](#haber)
+  
+---
   
 ## Market
 
