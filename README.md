@@ -4,12 +4,21 @@
 
 - [Market](#market)
 	- [Grafik](#grafik)
-- [Portfolio](#portfolio)
+	- [Decentralized](#decentralized)	
+	- [Instant Converter](#instant-converter)
+	- [Portfolio Creator](#portfolio-creator)
+- [Grafik](#grafik)
+- [Portfolio Tracker](#portfolio-tracker)
 	- [Mobile](#mobile)
 	- [Web](#web)
 - [ICO](#ico)
+	- [Duyurular](#duyurular)
+	- [İstatistikler](#istatistikler)
 	- [İnceleme](#inceleme)
+	- [Podcast](#podcast)
 - [Haber](#haber)
+- [Fee](#fee)
+- [Masternode](#masternode)
   
 ---
   
@@ -38,16 +47,16 @@
 - [RadarRelay](https://radarrelay.com/)
 - [EtherDelta](https://etherdelta.com/)
 
-### Instant converter
+### Instant Converter
 
 - [ShapeShift](https://shapeshift.io/)
 - [Changelly](https://changelly.com/)
 
-### Portfolio creator
+### Portfolio Creator
 
 - [Prism.exchange](https://prism.exchange)
 
-## Portfolio
+## Portfolio Tracker
 
 ### Mobile
 
