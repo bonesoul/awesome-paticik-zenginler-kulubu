@@ -31,11 +31,21 @@
 - [Bitfinex](https://www.bitfinex.com/)
 - [Bittrex](https://bittrex.com/)
 - [Kucoin](https://www.kucoin.com/)
+- [Liqui](https://liqui.io/)
 
 ### Decentralized
 
 - [RadarRelay](https://radarrelay.com/)
 - [EtherDelta](https://etherdelta.com/)
+
+### Instant converter
+
+- [ShapeShift](https://shapeshift.io/)
+- [Changelly](https://changelly.com/)
+
+### Portfolio creator
+
+- [Prism.exchange](https://prism.exchange)
 
 ## Portfolio
 
