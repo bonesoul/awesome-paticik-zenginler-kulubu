@@ -13,7 +13,7 @@
   
 ---
   
-## Market
+## Market Data
 
 - [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
 - [CoinCap](http://coincap.io/) - Alternatif liste.
@@ -23,6 +23,18 @@
 
 - [CryptoWatch](https://cryptowat.ch/)
 - [BitcoinWisdom](https://bitcoinwisdom.com/)
+
+## Exchange
+
+- [Binance](https://www.binance.com/)
+- [Bitfinex](https://www.bitfinex.com/)
+- [Bittrex](https://bittrex.com/)
+- [Kucoin])(https://www.kucoin.com/)
+
+### Decentralized
+
+- [RadarRelay](https://radarrelay.com/)
+- [EtherDelta](https://etherdelta.com/)
 
 ## Portfolio
 
