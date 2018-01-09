@@ -7,7 +7,7 @@
 	- [Mobile](#mobile)
 - [ICO](#ico)
 	- [İnceleme](#inceleme)
-- [Haber](#haber]
+- [Haber](#haber)
   
 ## Market
 
