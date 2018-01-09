@@ -9,9 +9,18 @@
 
 ### Fiyat takip
 
-- [coinmarketcap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
-- [coincap](http://coincap.io/) - Alternatif liste.
-- [livecoinwatch](https://www.livecoinwatch.com/) - Alternatif liste.
+- [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
+- [CoinCap](http://coincap.io/) - Alternatif liste.
+- [LivecoinWatch](https://www.livecoinwatch.com/) - Alternatif liste.
+
+
+### ICO
+
+- [IcoDrops](https://icodrops.com/)
+
+## Haber
+
+- [CoinMarketCal](https://coinmarketcal.com/) - Topluluk tarafından oylanan gelecek etkinlikler listesi.
 
 
 
