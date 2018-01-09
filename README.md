@@ -13,11 +13,18 @@
 - [CoinCap](http://coincap.io/) - Alternatif liste.
 - [LivecoinWatch](https://www.livecoinwatch.com/) - Alternatif liste.
 
+### Mobile
+
+- [Delta](https://getdelta.io/) - En sık kullandığımız mobil app.
+- [CoinCap](https://coincap.io/) - Birden fazla portfolio desteği olan app.
 
 ## ICO
 
 - [IcoDrops](https://icodrops.com/)
 - [IcoRating](https://icorating.com/)
+- [WiserIco](https://wiserico.com/)
+- [FoxIco](https://foxico.io/)
+- [TokensRecord](https://tokensrecord.com/#)
 
 ### İnceleme
 
