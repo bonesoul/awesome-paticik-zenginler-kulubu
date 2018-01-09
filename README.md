@@ -1,4 +1,4 @@
-# paticik-zenginler-kulubu-awesome
+# awesome-paticik-zenginler-kulubu
 
 ## İçerik
 
