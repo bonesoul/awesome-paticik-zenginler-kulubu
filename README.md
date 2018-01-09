@@ -4,6 +4,10 @@
 
 - [Market](#market)
 	- [Fiyat takip](#fiyat-takip)
+	- [Mobile](#mobile)
+- [ICO](#ico)
+	- [İnceleme](#inceleme)
+- [Haber](#haber]
   
 ## Market
 
