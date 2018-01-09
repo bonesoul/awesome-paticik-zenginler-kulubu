@@ -1,5 +1,4 @@
 # paticik-zenginler-kulubu-awesome
-🚀 ⚡️ ✨
 
 ## İçerik
 
@@ -10,4 +9,9 @@
 
 ### Fiyat takip
 
-- [coinmarketcap](https://coinmarketcap.com/) - Various data about several listed coins, such as their price, available supply, trade volume over last 24 hours or market capitalization.
+- [coinmarketcap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
+- [coincap](http://coincap.io/) - Alternatif liste.
+- [livecoinwatch](https://www.livecoinwatch.com/) - Alternatif liste.
+
+
+
