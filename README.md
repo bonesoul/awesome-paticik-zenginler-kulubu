@@ -1,0 +1,2 @@
+# paticik-zenginler-kulubu-awesome
+🚀 ⚡️ ✨
