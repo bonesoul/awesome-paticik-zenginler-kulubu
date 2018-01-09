@@ -18,6 +18,7 @@
 - [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
 - [CoinCap](http://coincap.io/) - Alternatif liste.
 - [LivecoinWatch](https://www.livecoinwatch.com/) - Alternatif liste.
+- [CryptoCompare](https://www.cryptocompare.com)
 
 ### Grafik
 
@@ -89,5 +90,9 @@
 
 - [CoinMarketCal](https://coinmarketcal.com/) - Topluluk tarafından oylanan gelecek etkinlikler listesi.
 
+## Fee
+
+- [Bitcoin](https://bitcoinfees.info/)
+- [Ethereum](https://ethgasstation.info/)
 
 
