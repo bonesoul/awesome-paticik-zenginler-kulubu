@@ -4,7 +4,7 @@
 
 - [Market](#market)
 	- [Grafik](#grafik)
-- [Portfolio]
+- [Portfolio](#portfolio)
 	- [Mobile](#mobile)
 	- [Web](#web)
 - [ICO](#ico)
