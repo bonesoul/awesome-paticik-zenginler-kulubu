@@ -49,16 +49,29 @@
 - [TokenMarket](https://tokenmarket.net/ico-calendar)
 - [TrackIco](https://www.trackico.io/)
 - [CoinSchedule](https://www.coinschedule.com/)
+- [CoinHills](https://www.coinhills.com/ico/)
+- [TokenTops](https://tokentops.com/ico/)
 - [NEO Ico Tracker](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?sle=true#gid=0)
+- [Binance Launch Pad](https://launchpad.binance.com/)
+
+### Duyurular
+
+- [Bitcointalk](https://bitcointalk.org/index.php?board=159.0)
 
 ### İstatistikler
 
 - [IcoStats](https://icostats.com/)
+- [Ethplorer Ico](https://ethplorer.io/top) Top 50 Ethereum tokens for 90 days
+- [CoinDesk Ico Tracker](https://www.coindesk.com/ico-tracker/) All-Time Cumulative ICO Funding, Monthly New ICO Funding
 
 ### İnceleme
 
 - [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
+- [CryptoButlers](https://cryptobutlers.com/)
 - [CryptoRated](https://cryptorated.com/)
+
+### Podcast
+- [Ico Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
 ## Haber
 
