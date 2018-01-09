@@ -39,6 +39,10 @@
 - [CoinSchedule](https://www.coinschedule.com/)
 - [NEO Ico Tracker](https://docs.google.com/spreadsheets/d/1g21tYH2ctNqapcP4W-_WWLqF2SODB7FNakeXpDLTlYc/htmlview?sle=true#gid=0)
 
+### İstatistikler
+
+- [IcoStats](https://icostats.com/)
+
 ### İnceleme
 
 - [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
