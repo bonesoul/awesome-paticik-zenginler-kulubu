@@ -14,9 +14,7 @@
 - [LivecoinWatch](https://www.livecoinwatch.com/) - Alternatif liste.
 
 
-### ICO
-
-Mevcut ve gelecek ICO'lar hakkında bilgiler.
+## ICO
 
 - [IcoDrops](https://icodrops.com/)
 - [IcoRating](https://icorating.com/)
@@ -24,6 +22,7 @@ Mevcut ve gelecek ICO'lar hakkında bilgiler.
 ### İnceleme
 
 - [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
+- [CryptoRated](https://cryptorated.com/)
 
 ## Haber
 
