@@ -16,7 +16,14 @@
 
 ### ICO
 
+Mevcut ve gelecek ICO'lar hakkında bilgiler.
+
 - [IcoDrops](https://icodrops.com/)
+- [IcoRating](https://icorating.com/)
+
+### İnceleme
+
+- [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
 
 ## Haber
 
