@@ -30,7 +30,7 @@
 - [Binance](https://www.binance.com/)
 - [Bitfinex](https://www.bitfinex.com/)
 - [Bittrex](https://bittrex.com/)
-- [Kucoin])(https://www.kucoin.com/)
+- [Kucoin](https://www.kucoin.com/)
 
 ### Decentralized
 
