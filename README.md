@@ -72,6 +72,7 @@
 
 - [IcoDrops](https://icodrops.com/)
 - [IcoAlert](https://www.icoalert.com/)
+- [ComingUpICO](http://comingupico.info/) Çin merkezli site.
 - [IcoRating](https://icorating.com/)
 - [WiserIco](https://wiserico.com/)
 - [FoxIco](https://foxico.io/)
