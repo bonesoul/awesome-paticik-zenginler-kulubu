@@ -33,6 +33,7 @@
 
 - [CryptoWatch](https://cryptowat.ch/)
 - [BitcoinWisdom](https://bitcoinwisdom.com/)
+- [TradingView](https://www.tradingview.com/markets/cryptocurrencies/quotes-all/)
 
 ## Exchange
 
@@ -72,8 +73,11 @@
 
 - [IcoDrops](https://icodrops.com/)
 - [IcoAlert](https://www.icoalert.com/)
-- [ComingUpICO](http://comingupico.info/) Çin merkezli site.
+- [ComingUpICO](http://comingupico.info/) - Çin merkezli site.
+- [IcoTracker](https://icotracker.net/)
+- [IcoBazaar](https://icobazaar.com/v2/list/featured)
 - [IcoRating](https://icorating.com/)
+- [SmithAndCrowd](https://www.smithandcrown.com/icos/)
 - [WiserIco](https://wiserico.com/)
 - [FoxIco](https://foxico.io/)
 - [TokensRecord](https://tokensrecord.com/#)
@@ -94,6 +98,7 @@
 ### İstatistikler
 
 - [IcoStats](https://icostats.com/)
+- [TokenData](https://www.tokendata.io/)
 - [Ethplorer Ico](https://ethplorer.io/top) Top 50 Ethereum tokens for 90 days
 - [CoinDesk Ico Tracker](https://www.coindesk.com/ico-tracker/) All-Time Cumulative ICO Funding, Monthly New ICO Funding
 
@@ -102,6 +107,9 @@
 - [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
 - [CryptoButlers](https://cryptobutlers.com/)
 - [CryptoRated](https://cryptorated.com/)
+- [IcoDigest](https://theicodigest.com/)
+- [IcoWhitelists](http://icowhitelists.com/)
+- [PicoloResearch](https://picoloresearch.com/)
 
 ### Podcast
 - [Ico Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
@@ -120,4 +128,8 @@
 - [MasterNodes.pro](https://masternodes.pro/)
 - [MasterNodes.online](https://masternodes.online/)
 - [MnRank](http://www.mnrank.com/)
+
+## Programming
+
+- [CryptoZombies](https://cryptozombies.io/)
 
