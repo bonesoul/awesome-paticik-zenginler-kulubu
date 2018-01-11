@@ -16,6 +16,9 @@
 	- [İstatistikler](#istatistikler)
 	- [İnceleme](#inceleme)
 	- [Podcast](#podcast)
+- [Uygulamalar](#uygulamalar)
+	- [Android](#android)
+	- [iOS](#ios)
 - [Haber](#haber)
 - [Fee](#fee)
 - [Masternode](#masternode)
@@ -113,7 +116,28 @@
 - [PicoloResearch](https://picoloresearch.com/)
 
 ### Podcast
+
 - [Ico Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
+
+## Uygulamalar
+
+### Android
+
+- [Bitcoin Checker](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian) Guncel fiyatlar ve farkli kosullar icin alarm yaratabilirsiniz
+- [Crypto Coin Pump Notifier](https://play.google.com/store/apps/details?id=com.minh.minh.pumpnotifier)
+- [ICO Alarm: Coin List, Token Sale, Tracker, Alerts](https://play.google.com/store/apps/details?id=com.icoalarm.app)
+- [Crypto Tracker Bot](https://play.google.com/store/apps/details?id=com.lwbrands.android.cryptotrackerbot) Exchagelere yeni coin geldiginde bildirim atar
+- [Bitfinex](https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp)
+- [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
+- [Coinbase](https://play.google.com/store/apps/details?id=com.coinbase.android)
+- [Jaxx Blockchain Wallet](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx)
+- [Delta](https://play.google.com/store/apps/details?id=io.getdelta.android)
+- [Blockfolio Bitcoin / Altcoin App](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio)
+- [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+- [Drakdoo: Cryptocurrency Price Action](https://play.google.com/store/apps/details?id=com.drakdoo.app)
+- [CoinCap.io](https://play.google.com/store/apps/details?id=io.coinCap.coinCap&rdid=io.coinCap.coinCap)
+
+### iOS
 
 ## Haber
 
@@ -133,4 +157,3 @@
 ## Programming
 
 - [CryptoZombies](https://cryptozombies.io/)
-
