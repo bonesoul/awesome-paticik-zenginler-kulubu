@@ -129,6 +129,7 @@
 - [Crypto Tracker Bot](https://play.google.com/store/apps/details?id=com.lwbrands.android.cryptotrackerbot) Exchagelere yeni coin geldiginde bildirim atar
 - [Bitfinex](https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp)
 - [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
+- [Kucoin](https://www.kucoin.com/#/download/android)
 - [Coinbase](https://play.google.com/store/apps/details?id=com.coinbase.android)
 - [Jaxx Blockchain Wallet](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx)
 - [Delta](https://play.google.com/store/apps/details?id=io.getdelta.android)
