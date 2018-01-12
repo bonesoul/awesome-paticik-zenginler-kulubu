@@ -75,6 +75,7 @@
 
 ## ICO
 
+- [PZK ICO Watchlist](https://docs.google.com/spreadsheets/d/1q8o1NKutZ2ucIYbUxIqWMD149ifawySOOwhfggBM8RM/) - Paticik Zenginler Kulubu ICO watchlist.
 - [IcoDrops](https://icodrops.com/)
 - [IcoAlert](https://www.icoalert.com/)
 - [ComingUpICO](http://comingupico.info/) - Çin merkezli site.
