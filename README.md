@@ -28,9 +28,8 @@
   
 ---
   
-## Market Data
-
-Market verileri.
+## Market Data 
+`Market verileri.`
 
 - [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
 - [CoinCap](http://coincap.io/) - Alternatif liste.
