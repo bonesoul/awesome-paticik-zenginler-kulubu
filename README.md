@@ -80,6 +80,7 @@
 - [IcoAlert](https://www.icoalert.com/)
 - [/r/IcoCrypto](https://www.reddit.com/r/icocrypto/)
 - [ComingUpICO](http://comingupico.info/) - Çin merkezli site.
+- [TokenDesk](https://www.tokendesk.io/)
 - [IcoTracker](https://icotracker.net/)
 - [IcoBazaar](https://icobazaar.com/v2/list/featured)
 - [IcoRating](https://icorating.com/)
