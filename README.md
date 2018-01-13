@@ -30,7 +30,7 @@
   
 ## Market Data
 
-Market verileri
+Market verileri.
 
 - [CoinMarketCap](https://coinmarketcap.com/) - En geniş coin & exchange listesi.
 - [CoinCap](http://coincap.io/) - Alternatif liste.
@@ -39,11 +39,15 @@ Market verileri
 
 ### Grafik
 
+Market grafikleri.
+
 - [CryptoWatch](https://cryptowat.ch/)
 - [BitcoinWisdom](https://bitcoinwisdom.com/)
 - [TradingView](https://www.tradingview.com/markets/cryptocurrencies/quotes-all/)
 
 ## Exchange
+
+Cryptocurrency exchange'ler.
 
 - [Binance](https://www.binance.com/)
 - [Bitfinex](https://www.bitfinex.com/)
@@ -53,15 +57,21 @@ Market verileri
 
 ### Decentralized
 
+Decentralized exchangeler.
+
 - [RadarRelay](https://radarrelay.com/)
 - [EtherDelta](https://etherdelta.com/)
 
 ### Instant Converter
 
+Cryptocurrency'ler arasında hızlı dönüşüm siteleri.
+
 - [ShapeShift](https://shapeshift.io/)
 - [Changelly](https://changelly.com/)
 
 ### Portfolio Creator
+
+Cryptocurrency portfolio yönetim aracı.
 
 - [Prism.exchange](https://prism.exchange)
 
@@ -70,12 +80,18 @@ Market verileri
 ### Mobile
 
 #### Portfolio Tracker
+
+Portfolio takip yazılımları.
+
 - [Delta](https://getdelta.io/) - En sık kullandığımız mobil app.
 - [CoinCap](https://coincap.io/) - Birden fazla portfolio desteği olan app.
 - [BlockFolio](https://www.blockfolio.com/)
 - [Blockfolio Bitcoin / Altcoin App](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio)
 
 #### Alarm
+
+Alarm yazılımları.
+
 - [Bitcoin Checker](https://play.google.com/store/apps/details?id=com.mobnetic.coinguardian) Guncel fiyatlar ve farkli kosullar icin alarm yaratabilirsiniz.
 - [Crypto Coin Pump Notifier](https://play.google.com/store/apps/details?id=com.minh.minh.pumpnotifier)
 - [ICO Alarm: Coin List, Token Sale, Tracker, Alerts](https://play.google.com/store/apps/details?id=com.icoalarm.app)
@@ -83,25 +99,37 @@ Market verileri
 - [Drakdoo: Cryptocurrency Price Action](https://play.google.com/store/apps/details?id=com.drakdoo.app)
 
 #### Exchange
+
+Exchange'ler için mobil yazılımlar.
+
 - [Bitfinex](https://play.google.com/store/apps/details?id=com.bitfinex.bfxapp)
 - [Binance](https://play.google.com/store/apps/details?id=com.binance.dev)
 - [Kucoin](https://www.kucoin.com/#/download/android)
 - [Coinbase](https://play.google.com/store/apps/details?id=com.coinbase.android)
 
 #### 2FA Authenticator
+
+2FA authenticator'lar.
+
 - [Authy](https://authy.com/)
 - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
 ### Web
 
+Web tabanlı araçlar.
+
 - [Altpocket](https://altpocket.io/dashboard)
 
 ### Desktop
+
+Desktop için birden fazla cryptocurrency destekleyen cüzdanlar.
 
 - [Jaxx](https://play.google.com/store/apps/details?id=com.kryptokit.jaxx)
 - [Exodus](https://www.exodus.io/)
 
 ## ICO
+
+ICO siteleri.
 
 - [PZK ICO Watchlist](https://docs.google.com/spreadsheets/d/1q8o1NKutZ2ucIYbUxIqWMD149ifawySOOwhfggBM8RM/) - Paticik Zenginler Kulubu ICO watchlist.
 - [IcoDrops](https://icodrops.com/)
@@ -128,9 +156,13 @@ Market verileri
 
 ### Duyurular
 
+Yeni ICO duyuruları.
+
 - [Bitcointalk](https://bitcointalk.org/index.php?board=159.0)
 
 ### İstatistikler
+
+ICO istatistikleri.
 
 - [IcoStats](https://icostats.com/)
 - [TokenData](https://www.tokendata.io/)
@@ -138,6 +170,8 @@ Market verileri
 - [CoinDesk Ico Tracker](https://www.coindesk.com/ico-tracker/) All-Time Cumulative ICO Funding, Monthly New ICO Funding
 
 ### İnceleme
+
+ICO incelemeleri.
 
 - [CryptoBriefing](https://cryptobriefing.com/category/ico-reviews/) - ICO incelemeleri
 - [CryptoButlers](https://cryptobutlers.com/)
@@ -148,23 +182,33 @@ Market verileri
 
 ### Podcast
 
+ICO podcast'leri.
+
 - [Ico Alert](https://www.youtube.com/channel/UCjFCDQkYgA9wwa_zdwGPm6A)
 
 ## Haber
 
+Haberler.
+
 - [CoinMarketCal](https://coinmarketcal.com/) - Topluluk tarafından oylanan gelecek etkinlikler listesi.
 
 ## Fee
+
+Fee hesaplama araçları.
 
 - [Bitcoin](https://bitcoinfees.info/)
 - [Ethereum](https://ethgasstation.info/)
 
 ## Masternode
 
+Masternode karlılık hesaplama araçları.
+
 - [MasterNodes.pro](https://masternodes.pro/)
 - [MasterNodes.online](https://masternodes.online/)
 - [MnRank](http://www.mnrank.com/)
 
 ## Programming
+
+Programlama..
 
 - [CryptoZombies](https://cryptozombies.io/)
