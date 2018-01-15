@@ -118,7 +118,7 @@
 ## ICO
 `ICO siteleri.`
 
-- [PZK ICO Watchlist](https://docs.google.com/spreadsheets/d/1q8o1NKutZ2ucIYbUxIqWMD149ifawySOOwhfggBM8RM/) - Paticik Zenginler Kulubu ICO watchlist.
+- [Watchlist](https://docs.google.com/spreadsheets/d/1q8o1NKutZ2ucIYbUxIqWMD149ifawySOOwhfggBM8RM/) - Paticik Zenginler Kulubu ICO watchlist.
 - [IcoCheck](https://icocheck.io/) - [reviews](https://github.com/ico-check/ico-check/issues)
 - [IcoDrops](https://icodrops.com/)
 - [IcoAlert](https://www.icoalert.com/)
